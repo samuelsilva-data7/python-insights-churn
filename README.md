@@ -60,7 +60,7 @@ O projeto investiga questões como:
 ### 1\. Clone o repositório
 
 ```bash
-git clone https://github.com/samuelsilva-data7/python-insights-churn.git
+git clone https://www.linkedin.com/in/samuel-fernandes-8155472ba/.git
 cd python-insights-churn
 ```
 
